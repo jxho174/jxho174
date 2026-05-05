@@ -13,3 +13,8 @@
 2. Discord: ho081106
 
 - ⚡ Fun fact: I don't remember lots of things well. 
+
+- 🛠️ Tools
+1. Tailscale
+2. VSCode
+3. Docker
