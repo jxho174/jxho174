@@ -1,20 +1,57 @@
-## Hi there 👋 My name is Ho Jun Xiung
-### About me:
-- 🔭 I'm currently a university student in Multimedia University majoring in computer engineering, working on automation with n8n as a beginner. I have not much idea how it operate but trial and error will always do its job.
+<h1 align="center">Hi there 👋, I'm Ho Jun Xiung</h1>
+<h3 align="center">Computer Engineering student | Automation enthusiast | ML/DL learner</h3>
 
-- 🌱 I’m currently learning Python Programming Language across different platforms to gather all the knowledge needed to be a great programmer. My interest of studies are Machine Learning, Deep Learning and Automation.
+---
 
-- 💬 Ask me about: Python, ML, DL, Automation
+### 🧑‍💻 About Me
 
+- 🎓 Computer Engineering student at **Multimedia University**
+- 🔭 Currently building automations with **n8n** — learning by breaking things
+- 🌱 Diving into **Python**, **Machine Learning**, and **Deep Learning**
+- 💬 Ask me about: Python, ML/DL, automation, self-hosting
+- ⚡ Fun fact: I forget things easily — that's why I automate them
 - 😄 Pronouns: He/Him
 
-- 📫 How to reach me: 
-1. LinkedIn profile: linkedin.com/in/ho-jun-xiung-748457390
-2. Discord: ho081106
+---
 
-- ⚡ Fun fact: I don't remember lots of things well. 
+### 📫 Reach Me
 
-- 🛠️ Tools
-1. Tailscale
-2. VSCode
-3. Docker
+<p align="left">
+  <a href="https://linkedin.com/in/ho-jun-xiung-748457390">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/ho081106">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,docker,vscode,linux,bash,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jxho174&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxho174&layout=compact&theme=tokyonight" />
+</p>
