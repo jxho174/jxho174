@@ -27,17 +27,32 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,vscode,linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
 </p>
 
+### 🧠 ML / DL Frameworks
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" />
+</p>
+
+### 🏠 Self-Hosting Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
 </p>
 
 ---
