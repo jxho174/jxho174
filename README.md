@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 My name is Ho Jun Xiung
+### About me:
+- 🔭 I'm currently a university student in Multimedia University majoring in computer engineering, working on automation with n8n as a beginner. I have not much idea how it operate but trial and error will always do its job.
 
-<!--
-**jxho174/jxho174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Python Programming Language across different platforms to gather all the knowledge needed to be a great programmer. My interest of studies are Machine Learning, Deep Learning and Automation.
 
-Here are some ideas to get you started:
+- 💬 Ask me about: Python, ML, DL, Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+
+- 📫 How to reach me: 
+1. LinkedIn profile: linkedin.com/in/ho-jun-xiung-748457390
+2. Discord: ho081106
+
+- ⚡ Fun fact: I don't remember lots of things well. 
