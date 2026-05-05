@@ -60,13 +60,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxho174&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxho174&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
