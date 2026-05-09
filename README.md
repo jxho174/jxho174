@@ -46,4 +46,4 @@ Homelab / Automation
 🎆 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&hide_border=true&background=0A0A0A&stroke=D4AF37&ring=D4AF37&fire=C8102E&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&dates=8A8A8A&sideNums=E8E8E8" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jxho174&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title_color=D4AF37&text_color=E8E8E8" /> </p>
 
-<p align="center"> 🧨 Code quietly. Break things gently. Learn steadily. 🏮 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" /> </p> ```
+<p align="center"> 🧨 Code quietly. Break things gently. Learn steadily. 🏮 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" /> </p>
