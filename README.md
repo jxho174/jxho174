@@ -20,6 +20,7 @@ currently_learning:
 ask_me_about: [Python, ML/DL, automation, self-hosting]
 fun_fact: "I automate things because my memory has 99% packet loss"
 pronouns: he/him
+```
 
 🧧 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/ho-jun-xiung-748457390" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="https://discord.com/users/ho081106" target="_blank"> <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=5865F2" /> </a> <a href="https://x.com/ho62068" target="_blank"> <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=FFFFFF" /> </a> </p>
