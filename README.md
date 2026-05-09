@@ -44,9 +44,23 @@ Homelab / Automation
 <p align="left"> <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" /> </p>
 
 ### 🎆 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&hide_border=true&theme=dark" /> </p>
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jxho174&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jxho174&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&theme=dark" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxho174&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile%20Views&color=D4AF37&style=flat-square" alt="jxho174" />
+</div>
 
 <p align="center"> 🧨 Code quietly. Break things gently. Learn steadily. 🏮 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" /> </p>
