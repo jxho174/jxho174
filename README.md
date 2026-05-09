@@ -1,4 +1,4 @@
-<h1 align="center">🏮 夜 · Hi there, I'm Jun Xiung 🐉</h1>
+<h1 align="center">🏮 夜 · Hi there, I'm Jun Xiung 🐦‍🔥</h1>
 <h3 align="center">Computer Engineering Student · Automation Tinkerer · ML/DL Learner</h3>
 
 <p align="center">
