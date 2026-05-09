@@ -65,12 +65,6 @@ pronouns: he/him
 ---
 
 ### 🎆 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxho174&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&icon_color=C8102E&text_color=E8E8E8&ring_color=D4AF37" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxho174&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=E8E8E8" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&hide_border=true&background=0A0A0A&stroke=D4AF37&ring=D4AF37&fire=C8102E&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&dates=8A8A8A&sideNums=E8E8E8" />
 </p>
