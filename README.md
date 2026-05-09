@@ -45,5 +45,8 @@ Homelab / Automation
 
 ### 🎆 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&hide_border=true&theme=dark" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxho174&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 <p align="center"> 🧨 Code quietly. Break things gently. Learn steadily. 🏮 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" /> </p>
