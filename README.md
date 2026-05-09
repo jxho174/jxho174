@@ -22,10 +22,10 @@ fun_fact: "I automate things because my memory has 99% packet loss"
 pronouns: he/him
 ```
 
-🧧 Connect With Me
+### 🧧 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/ho-jun-xiung-748457390" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://discord.com/users/ho081106" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://x.com/ho62068" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
 
-⛩️ Tech Stack
+### ⛩️ Tech Stack
 
 Languages
 
@@ -43,7 +43,7 @@ Homelab / Automation
 
 <p align="left"> <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" /> </p>
 
-🎆 GitHub Stats
+### 🎆 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&hide_border=true&theme=dark" /> </p>
 
 <p align="center"> 🧨 Code quietly. Break things gently. Learn steadily. 🏮 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" /> </p>
