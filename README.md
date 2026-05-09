@@ -45,22 +45,15 @@ Homelab / Automation
 
 ### 🎆 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jxho174&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&theme=dark" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxho174&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxho174&theme=dark" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile%20Views&color=D4AF37&style=flat-square" alt="jxho174" />
-</div>
+---
 
-<p align="center"> 🧨 Code quietly. Break things gently. Learn steadily. 🏮 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" /> </p>
+<p align="center">
+  🧨 Code quietly. Break things gently. Learn steadily. 🏮
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jxho174&label=Profile+Views&color=D4AF37&style=flat" alt="Profile Views" />
+</p>
